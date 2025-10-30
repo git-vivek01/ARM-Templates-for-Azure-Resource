@@ -16,5 +16,5 @@ Each template in this repository can be used individually or combined to create 
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/ARM-Templates.git
-   cd ARM-Templates
+   git clone https://github.com/git-vivek01/ARM-Templates-for-Azure-Resource.git
+cd ARM-Templates-for-Azure-Resource
